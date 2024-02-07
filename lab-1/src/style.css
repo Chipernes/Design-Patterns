@@ -1,0 +1,193 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+*,
+*:before,
+*:after {
+    box-sizing: border-box;
+}
+html,
+body {
+    height: 100%;
+    font-family: Arial, sans-serif;
+}
+body {
+    -ms-text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+input,
+button,
+textarea {
+    font-size: inherit;
+}
+button {
+    cursor: pointer;
+    color: inherit;
+    background-color: inherit;
+}
+a {
+    color: inherit;
+}
+a:link,
+a:visited {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: none;
+}
+ul li {
+    list-style: none;
+}
+img {
+    vertical-align: top;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: inherit;
+    font-size: inherit;
+}
+
+
+.button {
+    display: inline-block;
+    padding: 10px;
+
+    color: white;
+
+    background: teal;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.page-title {
+    margin: 20px;
+
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.card {
+    display: inline-block;
+    width: 220px;
+    margin: 20px;
+    padding: 15px 10px;
+
+    background: lightblue;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.card__main {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 250px;
+}
+
+.card__title {
+    font-size: 18px;
+}
+
+.card__inner {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 10px;
+    margin: 20px 0 30px;
+
+    font-size: 12px;
+}
+
+.card__photo {
+    width: 100px;
+    aspect-ratio: 3 / 4;
+    object-fit: cover;
+
+    border-radius: 10px;
+}
+
+.card__info {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.card__birth {
+}
+
+.card__number {
+}
+
+.card__footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+.card__peron {
+}
+
+.card__qr {
+    width: 100%;
+
+    object-fit: cover;
+}
+
+.card__links {
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+    gap: 5px;
+
+    font-size: 10px;
+}
+
+.order {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.order__label {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.order__input {
+    width: 300px;
+    padding: 5px 10px;
+
+    font-size: 16px;
+    font-weight: 400;
+
+    background: #e1dfdf;
+    border: 1px solid gray;
+    border-radius: 3px;
+    outline: none;
+}
+
+.order__button {
+    width: 120px;
+
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+
+    background: #e1dfdf;
+    border: 1px solid gray;
+    border-radius: 3px;
+}
+
+.copy__link {
+    margin-top: 5px;
+    font-size: 10px;
+}
