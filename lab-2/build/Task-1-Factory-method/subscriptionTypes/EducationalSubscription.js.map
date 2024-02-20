@@ -1,0 +1,1 @@
+{"version":3,"file":"EducationalSubscription.js","sourceRoot":"","sources":["../../../src/Task-1-Factory-method/subscriptionTypes/EducationalSubscription.ts"],"names":[],"mappings":"AAAA,OAAO,YAAY,MAAM,8BAA8B,CAAC;AAExD,MAAM,CAAC,OAAO,OAAO,uBAAwB,SAAQ,YAAY;IAC7D;QACI,KAAK,CAAC,GAAG,EAAE,CAAC,EAAE,CAAC,oBAAoB,CAAC,CAAC,CAAC;IAC1C,CAAC;CACJ"}

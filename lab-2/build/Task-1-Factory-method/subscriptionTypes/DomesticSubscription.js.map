@@ -1,0 +1,1 @@
+{"version":3,"file":"DomesticSubscription.js","sourceRoot":"","sources":["../../../src/Task-1-Factory-method/subscriptionTypes/DomesticSubscription.ts"],"names":[],"mappings":"AAAA,OAAO,YAAY,MAAM,8BAA8B,CAAC;AAExD,MAAM,CAAC,OAAO,OAAO,oBAAqB,SAAQ,YAAY;IAC1D;QACI,KAAK,CAAC,GAAG,EAAE,CAAC,EAAE,CAAC,gBAAgB,CAAC,CAAC,CAAC;IACtC,CAAC;CACJ"}

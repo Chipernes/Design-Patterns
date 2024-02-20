@@ -1,0 +1,1 @@
+{"version":3,"file":"Subscription.js","sourceRoot":"","sources":["../../../src/Task-1-Factory-method/templates/Subscription.ts"],"names":[],"mappings":"AAAI,MAAM,CAAC,OAAO,OAAgB,YAAY;IAK1C,YAAsB,UAAkB,EAAE,aAAqB,EAAE,QAAkB;QAC/E,IAAI,CAAC,UAAU,GAAG,UAAU,CAAC;QAC7B,IAAI,CAAC,aAAa,GAAG,aAAa,CAAC;QACnC,IAAI,CAAC,QAAQ,GAAG,QAAQ,CAAC;IAC7B,CAAC;CACJ"}

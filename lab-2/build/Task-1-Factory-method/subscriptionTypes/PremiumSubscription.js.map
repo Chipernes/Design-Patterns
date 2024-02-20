@@ -1,0 +1,1 @@
+{"version":3,"file":"PremiumSubscription.js","sourceRoot":"","sources":["../../../src/Task-1-Factory-method/subscriptionTypes/PremiumSubscription.ts"],"names":[],"mappings":"AAAA,OAAO,YAAY,MAAM,8BAA8B,CAAC;AAExD,MAAM,CAAC,OAAO,OAAO,mBAAoB,SAAQ,YAAY;IACzD;QACI,KAAK,CAAC,GAAG,EAAE,CAAC,EAAE,CAAC,cAAc,EAAE,SAAS,CAAC,CAAC,CAAC;IAC/C,CAAC;CACJ"}
