@@ -1,0 +1,1 @@
+{"version":3,"file":"HeroDecorator.js","sourceRoot":"","sources":["../../../src/Task-2-Decorator/heroes/HeroDecorator.ts"],"names":[],"mappings":"AAEA,MAAM,CAAC,OAAO,OAAgB,aAAa;IACvC,YAAsB,IAAU;QAAV,SAAI,GAAJ,IAAI,CAAM;IAAG,CAAC;IAEpC,KAAK,CAAC,IAAY;QACd,IAAI,CAAC,IAAI,CAAC,KAAK,CAAC,IAAI,CAAC,CAAC;IAC1B,CAAC;CACJ"}

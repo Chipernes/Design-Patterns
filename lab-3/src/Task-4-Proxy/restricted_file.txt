@@ -1,0 +1,2 @@
+The birth of Typescript dates back to the year 2012, developed by Microsoft with Anders Hejilsberg as the main architect.
+Typescript comes to solve some points where Javascript had many problems with large code bases, modularity problems, and code debugging.

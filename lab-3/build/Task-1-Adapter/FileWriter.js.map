@@ -1,0 +1,1 @@
+{"version":3,"file":"FileWriter.js","sourceRoot":"","sources":["../../src/Task-1-Adapter/FileWriter.ts"],"names":[],"mappings":"AAAA,MAAM,CAAC,OAAO,OAAO,UAAU;IAC3B,KAAK,CAAC,IAAY;QACd,OAAO,CAAC,GAAG,CAAC,wBAAwB,IAAI,EAAE,CAAC,CAAC;IAChD,CAAC;IACD,SAAS,CAAC,IAAY;QAClB,OAAO,CAAC,GAAG,CAAC,wBAAwB,IAAI,EAAE,CAAC,CAAC;IAChD,CAAC;CACJ"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"Paladin.js","sourceRoot":"","sources":["../../../src/Task-2-Decorator/heroes/Paladin.ts"],"names":[],"mappings":"AAEA,MAAM,CAAC,OAAO,OAAO,OAAO;IACxB,YAAmB,IAAY;QAAZ,SAAI,GAAJ,IAAI,CAAQ;IAAG,CAAC;IAEnC,KAAK,CAAC,IAAY;QACd,OAAO,CAAC,GAAG,CAAC,GAAG,IAAI,CAAC,IAAI,aAAa,IAAI,EAAE,CAAC,CAAC;IACjD,CAAC;CACJ"}

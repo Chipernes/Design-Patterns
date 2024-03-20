@@ -1,0 +1,4 @@
+Typescript
+Typescript is a superset that provides additional features to the Javascript programming language.
+Among which it adds functionalities such as the typing of variables, interfaces, decorators, and other functionalities belonging to programming languages ​​such as Java or C#.
+Mentioning that these features will help us on a day-to-day basis to work with object-oriented programming and reduce errors.

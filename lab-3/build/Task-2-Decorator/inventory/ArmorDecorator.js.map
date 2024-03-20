@@ -1,0 +1,1 @@
+{"version":3,"file":"ArmorDecorator.js","sourceRoot":"","sources":["../../../src/Task-2-Decorator/inventory/ArmorDecorator.ts"],"names":[],"mappings":"AAAA,OAAO,aAAa,MAAM,4BAA4B,CAAC;AAGvD,MAAM,CAAC,OAAO,OAAO,cAAe,SAAQ,aAAa;IACrD,KAAK,CAAC,IAAY;QACd,KAAK,CAAC,KAAK,CAAC,UAAU,IAAI,EAAE,CAAC,CAAC;IAClC,CAAC;CACJ"}

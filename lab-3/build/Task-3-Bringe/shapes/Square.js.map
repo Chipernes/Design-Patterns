@@ -1,0 +1,1 @@
+{"version":3,"file":"Square.js","sourceRoot":"","sources":["../../../src/Task-3-Bringe/shapes/Square.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,MAAM,YAAY,CAAC;AAG/B,MAAM,CAAC,OAAO,OAAO,MAAO,SAAQ,KAAK;IACrC,YAAY,QAAkB;QAC1B,KAAK,CAAC,QAAQ,CAAC,CAAC;IACpB,CAAC;IAED,IAAI;QACA,IAAI,CAAC,QAAQ,CAAC,WAAW,CAAC,QAAQ,CAAC,CAAC;IACxC,CAAC;CACJ"}
